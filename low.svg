@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Path</title>
+<svg width="39px" height="24px" viewBox="0 0 39 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>medium</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="medium" transform="translate(-15.000000, 0.000000)" fill="#2446EA" fill-rule="nonzero">
+        <g id="medium" fill="#2446EA" fill-rule="nonzero">
             <g id="Group" transform="translate(19.074000, 11.537000) scale(1, -1) translate(-19.074000, -11.537000) translate(0.074000, 0.037000)">
                 <path d="M36.519,21.593 L36.519,21.593 C38.075,20.037 38.075,17.492 36.519,15.936 L21.75,1.167 C20.194,-0.389 17.649,-0.389 16.093,1.167 L16.093,1.167 C14.537,2.723 14.537,5.268 16.093,6.824 L30.862,21.593 C32.417,23.148 34.963,23.148 36.519,21.593 Z" id="Path"></path>
+                <path d="M1.167,21.593 L1.167,21.593 C-0.389,20.037 -0.389,17.492 1.167,15.936 L15.936,1.167 C17.492,-0.389 20.037,-0.389 21.593,1.167 L21.593,1.167 C23.149,2.723 23.149,5.268 21.593,6.824 L6.823,21.593 C5.268,23.148 2.722,23.148 1.167,21.593 Z" id="Path"></path>
             </g>
         </g>
     </g>
